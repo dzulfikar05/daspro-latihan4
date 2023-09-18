@@ -1,0 +1,15 @@
+Algoritma : hitung_luas_lingkaran
+
+
+
+import scanner untuk inputan
+
+Deklarasi : jari, luas, phi= 3.14 : double
+
+Deskripsi :
+
+jari = input jari
+
+luas = phi * jari * jari
+print luas
+

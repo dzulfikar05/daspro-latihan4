@@ -1,0 +1,15 @@
+Algoritma : hitung_keliling_persegi
+
+
+
+import scanner untuk inputan
+
+Deklarasi : sisi, keliling : double
+
+Deskripsi :
+
+sisi = input sisi
+
+keliling = 4 * sisi
+print keliling
+

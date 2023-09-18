@@ -1,0 +1,16 @@
+Algoritma : hitung_luas_persegi_panjang
+
+
+
+import scanner untuk inputan
+
+Deklarasi : panjang, lebar, luas : double
+
+Deskripsi :
+
+panjang = input panjang
+lebar = input lebar
+
+luas = panjang * lebar
+print luas
+

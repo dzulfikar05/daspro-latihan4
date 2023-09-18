@@ -1,0 +1,15 @@
+Algoritma : hitung_keliling_persegi_panjang
+
+
+import scanner untuk inputan
+
+Deklarasi : panjang, lebar, keliling : double
+
+Deskripsi :
+
+panjang = input panjang
+lebar = input lebar
+
+keliling = 2* (panjang + lebar)
+print keliling
+

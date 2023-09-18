@@ -1,0 +1,15 @@
+Algoritma : hitung_luas_persegi
+
+
+
+import scanner untuk inputan
+
+Deklarasi : sisi, luas : double
+
+Deskripsi :
+
+sisi = input sisi
+
+luas = sisi * sisi
+print luas
+

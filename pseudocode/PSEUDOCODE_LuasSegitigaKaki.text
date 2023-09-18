@@ -1,0 +1,16 @@
+Algoritma : hitung_luas_segitiga_kaki
+
+
+
+import scanner untuk inputan
+
+Deklarasi : alas, tinggi, luas : double
+
+Deskripsi :
+
+alas = input alas
+tinggi = input tinggi
+
+luas = 0.5 *  alas * tinggi
+print luas
+

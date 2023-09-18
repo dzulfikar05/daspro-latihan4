@@ -1,0 +1,15 @@
+Algoritma : hitung_keliling_lingkaran
+
+
+
+import scanner untuk inputan
+
+Deklarasi : jari, keliling, phi= 3.14 : double
+
+Deskripsi :
+
+jari = input jari
+
+keliling = 2 * phi * jari
+print keliling
+

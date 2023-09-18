@@ -1,0 +1,17 @@
+Algoritma : hitung_keliling_segitiga_siku
+
+
+
+import scanner untuk inputan
+
+Deklarasi : sisi_a, sisi_b, sisi_c, keliling : double
+
+Deskripsi :
+
+sisi_a = input sisi_a
+sisi_b = input sisi_b
+sisi_c = input sisi_c
+
+keliling = sisi_a + sisi_b + sisi_c
+print keliling
+
